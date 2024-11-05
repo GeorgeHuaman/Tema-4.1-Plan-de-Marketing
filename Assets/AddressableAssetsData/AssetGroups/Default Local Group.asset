@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 5858624fd61ec334d9ab7cabcf3bbdf7
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: b7771ef2feacc42449bb07c01be0efc7
+    m_Address: Assets/3D/Salas fbx/Pruebas Space X.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c57f3ccf73b2af3469e07f63765689a8, type: 2}
   m_SchemaSet:
